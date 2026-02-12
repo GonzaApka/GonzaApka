@@ -32,13 +32,10 @@ Currently improving my skills across the full stack while working on personal pr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzaApka&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaApka&layout=compact&theme=tokyonight)
 
-<br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leopesce05/leopesce05/output/github-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/leopesce05/leopesce05/output/github-snake.svg">
 </picture>
-
 
 ---
 

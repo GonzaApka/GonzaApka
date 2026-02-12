@@ -35,10 +35,10 @@ Currently improving my skills across the full stack while working on personal pr
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/GonzaApka/GonzaApka/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 

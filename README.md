@@ -14,7 +14,7 @@ Currently improving my skills across the full stack while working on personal pr
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,html,css,git,github,python,java&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,html,css,git,github,python,java&perline=7)](https://skillicons.dev)
 
 ---
 
